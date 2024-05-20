@@ -1,0 +1,6 @@
+# Update the '_' in the code below to provide the following output
+# 7 3
+
+# Output both expressions on the same line
+print("7","3")
+
